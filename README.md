@@ -1,7 +1,7 @@
 ## CP2_JAVA
 checkpoint sobre JPA e ligamentos em Java
 
-** INTEGRANTES **:
+**INTEGRANTES**:
 
 Raphael Pabst rm98525
 
